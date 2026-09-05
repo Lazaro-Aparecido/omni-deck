@@ -1,4 +1,4 @@
-# bmo_app
+# omnideck
 
 A new Flutter project.
 
